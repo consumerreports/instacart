@@ -12,11 +12,15 @@ Of those items that we found Instacart experimented on, the average difference b
 
 Researchers found that overall Instacart basket totals varied by an average of about 7% for the exact same items from the exact same locations, at the exact same time. The exact same basket of groceries on Instacart from a Safeway store in Seattle, cost some shoppers $114.34, while other shoppers were shown $119.85 and $123.93. At a Target store in North Canton, Ohio, shoppers were shown different prices — $84.43, $84.81, $84.92, $87.91, and $90.47 — for the same basket of groceries.
 
+Shoppers with the highest total basket price could sometimes see the lowest prices for particular products. One shopper, for instance, whose entire cart had the lowest price, had the highest price for Skippy Creamy Peanut Butter (16 ounce) and Signature Farms Baby-cut Carrots (16 ounce). In other words, distinct price groups may be reliable indicators of what kind of prices — higher or lower — a shopper sees for most but not all grocery items in their basket.
+
 **Methodology**
 
 Across five separate tests in September 2025 involving 437 participants, researchers studied the prices of a basket of goods offered at five grocery stores on Instacart: two Target stores and three Safeway stores. For these tests (four were conducted online; one was conducted in-person), shoppers selected a set basket of items and captured screenshots of the prices they found in real-time.
 
 We also performed an additional test to determine which grocery retailers showed evidence of price fluctuations via the Instacart app. This confirmation test, conducted with 88 volunteers in November 2025, evaluated the prices for two products at 15 different retailers and found evidence of similar price experimentation at Albertsons, Costco, Kroger, and Sprouts Farmers Market. This confirmation test does not inform the final calculations, but the results of this final test underscore the price variability evident throughout this study.
+
+Three percent of shoppers had miscellaneous costs that were not duplicative of other shoppers and thus did not fit into a price group. A price group is defined as more than one shopper who receives the same prices for the same individual items and the same price for the same basket of items.
 
 **Participant Recruitment and Data Collection**
 
@@ -29,6 +33,8 @@ For these tests, shoppers joined online video conferences where they were instru
 In addition, researchers recruited in-person study participants with the help of a local nonprofit to conduct a similar shopping test of the Instacart platform for a Safeway store in Washington, D.C. For this test, which was co-hosted by Groundwork Collaborative and More Perfect Union, researchers and participants gathered in a conference room about a mile from the store and simultaneously used their phones or other devices to shop online for groceries. In this case, the geolocation of participants was not a variable. The participants were physically close to one another and followed the same method of shopping on the Instacart platform as in the previous virtual tests. In the end, the results of the conference room test were indistinguishable from the findings of the video conferenced tests.
 
 A total of 437 people from across the U.S. reported their Instacart pricing data, and after removing incomplete or incorrect files, 193 of those submissions were cleaned, processed, and included in the analyses.
+
+While almost all submitted entries contained at least some relevant data, many of the entries did not have complete evidence for all tested products. Some volunteers were unable to complete the study because they were unwilling to create an Instacart account or had trouble with the process of shopping, taking screenshots, or submitting them. In some cases, shoppers had missing items in the screenshots they submitted. During the video conference, some shoppers indicated that they could not see an option for a particular grocery item via the app or a web browser. At other times, shoppers submitted a screenshot for the wrong size of a product (i.e., an 18 ounce box of Cheerios instead of the 8.9 ounce variety), the wrong quantity of a product (i.e., two boxes of pasta instead of one), or the wrong store location (i.e., a Target in Minneapolis instead of the one selected in Saint Paul).
 
 **Data Analysis**
 
