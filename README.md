@@ -1,6 +1,8 @@
 # Consumer Reports and Groundwork Collaborative data analysis of Instacart's price experiments
 
-**Data Files**
+## Table of Contents  
+
+## Data Files
 
 The Consumer Reports and Groundwork Collaborative Instacart data analysis consists of three files: safeway.csv; target.csv; and confirmation.csv
 
@@ -14,7 +16,7 @@ The Consumer Reports and Groundwork Collaborative Instacart data analysis consis
 
 “Sales price” refers to the cost of an item after any mark-down or discount is applied. “Original price” refers to the cost of an item before any mark-down or discount is applied. On the Instacart platform, original prices are displayed with a “strike-through” font to indicate that they are not current.
 
-**Key Findings**
+## Key Findings
 
 To determine if Instacart is experimenting with pricing and, if so, just how costly it is for shoppers, Consumer Reports, Groundwork Collaborative, and More Perfect Union conducted an independent experiment involving 437 shoppers in live tests across four cities. Researchers assisted shoppers in simultaneously adding items from a specific grocery store to their Instacart shopping carts, but they stopped short of making the purchase. Researchers measured the prices displayed to each shopper and how much those prices varied from one shopper to the next.
 
@@ -28,14 +30,14 @@ Researchers found that overall Instacart basket totals varied by an average of a
 
 Shoppers with the highest total basket price could sometimes see the lowest prices for particular products. One shopper, for instance, whose entire cart had the lowest price, had the highest price for Skippy Creamy Peanut Butter (16 ounce) and Signature Farms Baby-cut Carrots (16 ounce). In other words, distinct price groups may be reliable indicators of what kind of prices — higher or lower — a shopper sees for most but not all grocery items in their basket.
 
-**Methodology**
+## Methodology
 
 Across five separate tests in September 2025 involving 437 participants, researchers studied the prices of a basket of goods offered at five grocery stores on Instacart: two Target stores and three Safeway stores. For these tests (four were conducted online; one was conducted in-person), shoppers selected a set basket of items and captured screenshots of the prices they found in real-time.
 
 We also performed an additional test to determine which grocery retailers showed evidence of price fluctuations via the Instacart app. This confirmation test, conducted with 88 volunteers in November 2025, evaluated the prices for two products at 15 different retailers and found evidence of similar price experimentation at Albertsons, Costco, Kroger, and Sprouts Farmers Market. This confirmation test does not inform the final calculations, but the results of this final test underscore the price variability evident throughout this study.
 Three percent of shoppers had miscellaneous costs that were not duplicative of other shoppers and thus did not fit into a price group. A price group is defined as more than one shopper who receives the same prices for the same individual items and the same price for the same basket of items.
 
-**Participant Recruitment and Data Collection**
+## Participant Recruitment and Data Collection
 
 Researchers recruited shoppers from a base of active Consumer Reports members, emailing consumers who had previously participated in at least one community research project with the organization. The team also recruited participants more widely, using Consumer Reports’ social media channels and members from a nonprofit journalism organization, More Perfect Union.
 Participants signed up for one of four different Consumer Reports-hosted tests, which were conducted remotely through online video conferencing software in September 2025. The tests focused on four stores in Seattle; Washington, D.C.; Saint Paul, Minnesota; and North Canton, Ohio.
@@ -48,7 +50,7 @@ A total of 437 people from across the U.S. reported their Instacart pricing data
 
 While almost all submitted entries contained at least some relevant data, many of the entries did not have complete evidence for all tested products. Some volunteers were unable to complete the study because they were unwilling to create an Instacart account or had trouble with the process of shopping, taking screenshots, or submitting them. In some cases, shoppers had missing items in the screenshots they submitted. During the video conference, some shoppers indicated that they could not see an option for a particular grocery item via the app or a web browser. At other times, shoppers submitted a screenshot for the wrong size of a product (i.e., an 18 ounce box of Cheerios instead of the 8.9 ounce variety), the wrong quantity of a product (i.e., two boxes of pasta instead of one), or the wrong store location (i.e., a Target in Minneapolis instead of the one selected in Saint Paul).
 
-**Data Analysis**
+## Data Analysis
 
 The research team processed up to eight screenshots for each of the 193 participants (179 online and 14 in-person) by first confirming that the screenshots showed the correct store and location and the correct products. Then, researchers entered sales prices, original prices and total basket prices into a database and merged them with participants’ survey responses, which included demographics and shopping history. The team did not collect information about taxes or service fees associated with any Instacart order.
 
@@ -58,7 +60,7 @@ In cases of price variation, we sought to understand whether the data we had col
 
 We also used regression models at both the basket and item levels. At the basket level, the models tested whether shopper characteristics predicted differences in the total price of the basket. At the item level, the models included product fixed effects so that the comparisons were between shoppers looking at the exact same items. Two sets of regressions were estimated. In the first, we included only Instacart shopping history measured in two ways: (a) as a single binary variable for “ever used” versus “never used,” and (b) as two binary variables for “used sometimes” and “used often,” with the “never used” category omitted. This strategy allowed us to test whether prior experience with the platform alone explained price variations. In the second set of models, we added demographic controls (age, income, gender, and race) to assess whether these characteristics, when considered together, influenced basket or item prices. This stepwise approach distinguished the regression analyses from the t-tests. While t-tests compared average prices between individual groups, the regressions assessed whether any observed differences persist after controlling for multiple factors simultaneously. Across both model specifications, the differences associated with Instacart use and demographics were small and not statistically meaningful.
 
-**Company Responses**
+## Company Responses
 
 In October and November 2025, we reached out to the companies mentioned in the study. Instacart said in a statement that “some consumers may see slightly higher prices for certain items and lower prices for others; however, most customers see the standard price.” The company also said its price experiments don’t use any personal or demographic data and noted that customers are randomly assigned to price test cohorts by product category and location. But Instacart said that consumer-packaged good companies, or CPGs, who use Instacart’s advertising product, “may use behavioral data…to inform discounts or promotional offers.” In a statement, Instacart said: “Affordability has always been at the heart of Instacart’s mission, helping people access the nutritious food they need from the retailers they love. Retail partners set and control their prices on Instacart, and we work closely with them to align online and in-store pricing wherever possible. Instacart is always transparent about pricing.”
 
