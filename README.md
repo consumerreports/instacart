@@ -1,7 +1,5 @@
 # Consumer Reports and Groundwork Collaborative data analysis of Instacart's price experiments
 
-## Table of Contents  
-
 ## Data Files
 
 The Consumer Reports and Groundwork Collaborative Instacart data analysis consists of three files: safeway.csv; target.csv; and confirmation.csv
